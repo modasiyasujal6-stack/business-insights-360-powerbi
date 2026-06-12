@@ -194,9 +194,6 @@ This dashboard helps decision-makers:
 ```text
 Business-Insights-360/
 │
-├── PBIX/
-│   └── Business_Insights_360.pbix
-│
 ├── Screenshots/
 │   ├── finance.png
 │   ├── sales.png
